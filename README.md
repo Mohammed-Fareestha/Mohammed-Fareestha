@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammed-Fareestha
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Backend(Node.js,express.js,MongoDB),Python
-- 💞️ I’m Good in Front-End { HTML5, CSS3 , BOOTSTRAP, JAVASCRIPT }
+- 🌱 I’m currently learning Backend(Node.js,express.js,MongoDB) 
+- 💞️ I’m Good in Front-End { HTML5, CSS3 , BOOTSTRAP, JAVASCRIPT } and Python
 - 📫 How to reach me mohammedfareestha@gmail.com 
 
 <!---
