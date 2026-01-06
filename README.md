@@ -5,7 +5,7 @@
 👀 Passionate about building scalable, high-performance web applications
 🌱 Strong focus on Backend Development using Node.js, Express.js, MongoDB
 💞️ Skilled in Frontend Development with React.js, Next.js, TypeScript, Redux Toolkit & Redux-Saga
-📫 Reach me at: mohammedfareestha@gmail.com
+📫 Reach me at: mohammedfareesthacareer@gmail.com
 
 🚀 About Me
 
