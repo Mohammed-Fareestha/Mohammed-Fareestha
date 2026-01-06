@@ -1,14 +1,28 @@
-- 👋 Hi, I’m @Mohammed-Fareestha
-- 👀 I’m Full Stack Developer
-- 🌱 I’m currently into  Backend(Node.js,express.js,MongoDB) 
-- 💞️ I’m Good in Front-End { JAVASCRIPT, PYTHON, HTML5, CSS3-BOOTSTRAP, Reactjs }
-- 📫 How to reach me mohammedfareestha@gmail.com 
+👋 Hi, I’m Mohammed Fareestha
 
-About mySelf 👨‍💻
+👨‍💻 Full-Stack MERN Developer (3+ Years Experience)
 
-Experienced ReactJS Developer with a proven track record of success. I bring a wealth of expertise in API Integration, Node.js, MySQL, MongoDB, and UI/UX design using Figma. I hold a B.Tech in Electronics and Communication Engineering from the SRM Institute of Science and Technology. My goal is to drive immediate value to your team and contribute significantly to the growth and development of your company, while also advancing my own career. I'm actively seeking new opportunities where I can apply my skills and passion for web development. Let's connect and explore how we can collaborate for mutual success
+👀 Passionate about building scalable, high-performance web applications
+🌱 Strong focus on Backend Development using Node.js, Express.js, MongoDB
+💞️ Skilled in Frontend Development with React.js, Next.js, TypeScript, Redux Toolkit & Redux-Saga
+📫 Reach me at: mohammedfareestha@gmail.com
 
-<!---
-Mohammed-Fareestha/Mohammed-Fareestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+
+Experienced Full-Stack Developer with 3+ years of hands-on experience working with React.js, TypeScript, Node.js, Express.js, MongoDB, MySQL, and NoSQL databases.
+I specialize in API development, system design, payment gateway integration, and performance optimization.
+
+I have a strong eye for UI/UX design using Figma and experience deploying scalable applications using AWS, Docker, and Kubernetes.
+I hold a B.Tech in Electronics and Communication Engineering from SRM Institute of Science and Technology.
+
+I’m actively seeking opportunities where I can deliver immediate value, contribute to impactful projects, and continue growing as a developer.
+
+Tech Stack
+
+Frontend: React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
+State Management: Redux Toolkit, Redux-Saga
+Backend: Node.js, Express.js
+Databases: MongoDB, MySQL, NoSQL
+DevOps & Cloud: AWS, Docker, Kubernetes
+Messaging & Streaming: Kafka
+Other: Payment Gateway Integration, REST APIs, Figma (UI/UX)
